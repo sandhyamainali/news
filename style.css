@@ -1,0 +1,50 @@
+.trending img{
+   
+    height:230px;
+}
+.text{
+    color:#ccc;
+}
+ul{
+    list-style: none;
+}
+.font{
+    font-size: 17px;
+}
+.p{
+    font-size: 10px;
+}
+.a{
+    color:red;
+    font-weight: bold;
+}
+.G{
+    Position:relative;
+    top:0;
+   overflow: hidden;
+    
+}
+.Gp{
+    align-items: center;
+    position: absolute;
+    bottom:-20px;
+    width:100%;
+    color:white;
+    background-color: rgba(0, 0, 0, 0.407);
+}
+
+.samp{
+    height:200px;
+}
+.samp1{
+    height: 200px;
+}
+.खेल img{
+    object-fit: cover;
+    height:230px;
+}
+.f{
+    font-size: 12px;
+    padding:10px;
+    gap:20px;
+}
